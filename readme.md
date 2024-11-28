@@ -1,5 +1,9 @@
 # 🐍 Intro to Python 👨‍💻
 
+You can find the main Notebook of the session in this repo with the name: `intro_to_python.ipynb`.  
+
+Video of the live session: https://www.youtube.com/watch?v=MDTyTrY0AJQ   
+
 ----
 
 ## 🙋‍♂️ Enric Domingo 
@@ -35,8 +39,4 @@
 - Create a personal website portfolio with Streamlit: https://www.streamlit.io/
 - Build a basic 2D game with Pygame: https://www.pygame.org/news
 
-----
 
-You can find the main Notebook of the session in this repo with the name: ìntro_to_python.ipynb`.  
-
-Video of the live session: https://www.youtube.com/watch?v=MDTyTrY0AJQ   
